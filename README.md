@@ -47,7 +47,7 @@ gdzie $S_n$ to stan konta przed losowaniem, a $v_i$ — wartość wylosowanej na
 
 ## Plan działania
 
-1. Ustalenie schematu barwnego, działania i wyglądu strony (słownictwo, przyciski itd.).
-2. Fundamenty strony — prosty statyczny wygląd, pozycjonowanie kart zgodnie z projektem, połączenie z PHP, prototyp animacji w JavaScript.
-3. Implementacja algorytmu losowania, aktualizacja stanu strony (konta), wyświetlanie zapytań, styl losowanych przycisków.
-4. Testy, merytoryka i ewentualna naprawa błędów.
+[ ]1. Ustalenie schematu barwnego, działania i wyglądu strony (słownictwo, przyciski itd.).
+[ ]2. Fundamenty strony — prosty statyczny wygląd, pozycjonowanie kart zgodnie z projektem, połączenie z PHP, prototyp animacji w JavaScript.
+[ ]3. Implementacja algorytmu losowania, aktualizacja stanu strony (konta), wyświetlanie zapytań, styl losowanych przycisków.
+[ ]4. Testy, merytoryka i ewentualna naprawa błędów.
