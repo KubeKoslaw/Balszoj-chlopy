@@ -1,4 +1,5 @@
 # БОЛЬШОЙ CHŁOPY
+![Ryba](assets/input2.gif)
 
 Strona ze sklepem z nagrodami o różnych wartościach, oparta na wirtualnej walucie. Projekt szkolny — losowanie nagród, konto użytkownika i zarządzanie stanem konta.
 
