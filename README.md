@@ -38,12 +38,21 @@ Przykładowe wagi (rzadkość nagrody rośnie → waga maleje):
 | Rzadka | $30$ | $30\%$ |
 | Epicka | $15$ | $15\%$ |
 | Legendarna | $5$ | $5\%$ |
-
 Po każdym losowaniu stan konta aktualizowany jest o koszt losowania $c$ oraz wartość wygranej $v$:
+
 
 $$S_{n+1} = S_n - c + v_i$$
 
 gdzie $S_n$ to stan konta przed losowaniem, a $v_i$ — wartość wylosowanej nagrody $i$.
+
+**Przykład:**
+
+$$\begin{cases} 0.00-50.00 = Zwykła (50)
+\newline 50.00-80.00 = Rzadka (30) 
+\newline 80.00-95.00 = Epicka (15)
+\newline 95.00-100.00 = Legendarna (5)
+\end{cases}$$
+
 
 ## Plan działania
 
