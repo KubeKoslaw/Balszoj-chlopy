@@ -39,6 +39,7 @@ Przykładowe wagi (rzadkość nagrody rośnie → waga maleje):
 | Rzadka | $30$ | $30\%$ |
 | Epicka | $15$ | $15\%$ |
 | Legendarna | $5$ | $5\%$ |
+
 Po każdym losowaniu stan konta aktualizowany jest o koszt losowania $c$ oraz wartość wygranej $v$:
 
 
