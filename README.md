@@ -20,8 +20,8 @@ Podział obowiązków:
 
 | Osoba | Rola |
 |---|---|
-| @KubeKoslaw | Backend i logika strony |
-| @moxmar26 | Baza danych i integracja |
+| @KubeKoslaw | Backend i logika strony oraz *IDF* | % Inicjalizacja,Debugowanie,Factchecking%
+| @moxmar26 | Baza danych i integracja oraz *NKWD* | % Naczelny Komisarz Weryfikacji Dokładności %
 | @user3 | Frontend — logika w JavaScript |
 | @user4 | Frontend — UI/UX, warstwa wizualna |
 
@@ -61,3 +61,5 @@ $$\begin{cases} 0.00-50.00 = Zwykła (50)
 - [ ] 2. Fundamenty strony — prosty statyczny wygląd, pozycjonowanie kart zgodnie z projektem, połączenie z PHP, prototyp animacji w JavaScript.
 - [ ] 3. Implementacja algorytmu losowania, aktualizacja stanu strony (konta), wyświetlanie zapytań, styl losowanych przycisków.
 - [ ] 4. Testy, merytoryka i ewentualna naprawa błędów.
+
+
